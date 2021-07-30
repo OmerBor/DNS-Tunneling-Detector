@@ -9,8 +9,10 @@ Link to presented simulation: <a href="https://github.com/o500/DNS-Tunneling-Det
 <br>
 <br>
 Programs used: DNScat client and server, DNSmasq DNS server, and our program.
-
+<br>
 <img src="https://github.com/o500/DNS-Tunneling-Detector/blob/main/dnstunnel.JPG">
+
+
 
 <b> More detailes </b>:<br>
 The tool/software, which we wrote in Python, not only enables the user
@@ -21,6 +23,8 @@ sources around the web.<br>
 All the graphics(graphs, windows, etc.) of the tool/software were created
 using PySimpleGUI, a Python package for creating GUIs.
 The parser part of the tool/software includes full Docstrings
+<br>
+<img src="https://github.com/o500/DNS-Tunneling-Detector/blob/f70b24737cdfd2e5b8c4745cf4ec9da0945aa93d/zoom.JPG">
 <br>
 When deciding whether a domain is suspicious, two factors are taken
 into account, the domain’s name and the number of queries for that
@@ -36,6 +40,7 @@ name that violates any of this conditions is condemned suspicious by
 our tool/software.
 As long as the tool/software stays active, it keeps on parsing and
 analyzing the data produced from the DNS server’s logs file.
+<br>
 <br>
 <b> Running the simulation </b><br>
 We performed the simulation of a DNS attack by configuring a DNS
