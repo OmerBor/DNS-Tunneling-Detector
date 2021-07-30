@@ -6,7 +6,7 @@ Link to presented simulation: <a href="https://github.com/o500/DNS-Tunneling-Det
 
 
 <img src="https://github.com/o500/DNS-Tunneling-Detector/blob/78a71533eff85116c1a63fe30611fc166c2d3528/Detector.JPG">
-
+<br>
 <br>
 Programs used: DNScat client and server, DNSmasq DNS server, and our program.
 
@@ -35,7 +35,7 @@ our tool/software.
 As long as the tool/software stays active, it keeps on parsing and
 analyzing the data produced from the DNS server’s logs file.
 <br>
-<b> Running the simulation </b>
+<b> Running the simulation </b><br>
 We performed the simulation of a DNS attack by configuring a DNS
 server and running through it a tunnel between a client and a
 server(DNScat applications) on a virtual machine, and then running our
