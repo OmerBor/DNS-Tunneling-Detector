@@ -10,6 +10,8 @@ Link to presented simulation: <a href="https://github.com/o500/DNS-Tunneling-Det
 <br>
 Programs used: DNScat client and server, DNSmasq DNS server, and our program.
 
+<img src="https://github.com/o500/DNS-Tunneling-Detector/blob/main/dnstunnel.JPG">
+
 <b> More detailes </b>:<br>
 The tool/software, which we wrote in Python, not only enables the user
 to view various statistics regarding DNS traffic, manually block/approve
